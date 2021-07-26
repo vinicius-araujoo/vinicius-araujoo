@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey, I'm Vinicius de Araújo 👋 
 
-<!--
-**vinicius-araujoo/vinicius-araujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vinicius, sou Graduado em Administração e atualmente estudante de Análise e Desenvolvimento de Sistema. 💻
 
-Here are some ideas to get you started:
+#### ✍️ "Tente a sua sorte! A vida é feita de oportunidades. O homem que vai mais longe é quase sempre aquele que tem coragem de arriscar." ✈️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 De São Paulo - Brasil;
+- 💻 Desenvolvendo conhecimentos em Front-End!
+- 🌈 Estagiário em SEO;
+- 👨‍💻 HTML, CSS e Javascript;
+
+Acompanhe-me 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vin%C3%ADcius-ara%C3%BAjo-378a164b/)](https://https://www.linkedin.com/in/vin%C3%ADcius-ara%C3%BAjo-378a164b/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vi_arauj00/)](https://www.instagram.com/vi_arauj00/)
+
