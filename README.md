@@ -11,5 +11,5 @@ Meu nome é Vinicius, sou Graduado em Administração e atualmente estudante de 
 
 Acompanhe-me 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vin%C3%ADcius-ara%C3%BAjo-378a164b/)](https://https://www.linkedin.com/in/vin%C3%ADcius-ara%C3%BAjo-378a164b/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vi_arauj00/)](https://www.instagram.com/vi_arauj00/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-ara%C3%BAjo-378a164b/)](https://www.linkedin.com/in/vin%C3%ADcius-ara%C3%BAjo-378a164b/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vi_arauj00/)](https://www.instagram.com/vi_arauj00/)
 
