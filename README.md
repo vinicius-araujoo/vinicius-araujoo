@@ -6,7 +6,7 @@ Meu nome é Vinicius, sou Graduado em Administração e atualmente estudante de 
 
 - 📍 De São Paulo - Brasil;
 - 💻 Desenvolvendo conhecimentos em Front-End!
-- 🌈 Estagiário em SEO;
+- 👨‍🚀 Estagiário em SEO;
 - 👨‍💻 HTML, CSS e Javascript;
 
 Acompanhe-me 👇🏼
