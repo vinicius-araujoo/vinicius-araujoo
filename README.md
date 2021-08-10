@@ -12,8 +12,8 @@ Meu nome é Vinicius, sou Graduado em Administração e atualmente estudante de 
 
 <div>
   <a href="https://github.com/vinicius-araujoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-araujoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-araujoo&layout=compact&langs_count=16&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vinicius-araujoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-araujoo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
   
