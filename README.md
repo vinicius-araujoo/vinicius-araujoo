@@ -7,7 +7,7 @@ Meu nome é Vinicius, sou Graduado em Administração e atualmente estudante de 
 - 📍 De São Paulo - Brasil;
 - 💻 Desenvolvendo conhecimentos em Front-End!
 - 👨‍🚀 Estagiário em SEO na [Moke Business Agency](https://www.mokepropaganda.com.br);
-- 👨‍💻 HTML, CSS, SASS/SCSS, SEO e Javascript.
+- 👨‍💻 HTML, CSS, SASS/SCSS, SEO, Bootstrap e Javascript.
 
 
 <div>
